@@ -10,3 +10,5 @@ const sayHi = () => 'hi';
 // module.exports = exportObject;
 
 module.exports = {hello, bye, sayHi};
+
+// test
